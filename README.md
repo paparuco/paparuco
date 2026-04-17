@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+In a world full of toil, there is a need to automate it. That is one of the things that I like! 
+
+Building automations or code in order to generate time for developers and myself to do what we like. 
+
+Either creating modules on Terraform or Github Actions to accelerate these procedures is what I find fun about work. Especially when people say that they don't lose time anymore with boring procedures.
+
 <!--
 **paparuco/paparuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
