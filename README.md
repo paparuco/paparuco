@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 In a world full of toil, there is a need to automate it. That is one of the things that I like! 
 
