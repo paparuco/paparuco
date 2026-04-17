@@ -6,7 +6,7 @@ Building automations or code in order to generate time for developers and myself
 
 Either creating modules on Terraform or Github Actions to accelerate these procedures is what I find fun about work. Especially when people say that they don't lose time anymore with boring procedures.
 
-# ✨ Tech Stack
+## ✨ Tech Stack
 ---
 #### 🎨 Frontend
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
