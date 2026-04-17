@@ -26,6 +26,10 @@ Either creating modules on Terraform or Github Actions to accelerate these proce
 ---
 #### 🔄 CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+---
+
+### 🤖 AI
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F61?style=flat&logo=openai&logoColor=white) ![Instructions](https://img.shields.io/badge/Instructions-6A0DAD?style=flat&logo=readthedocs&logoColor=white)
 
 ---
 #### 📊 Metrics
